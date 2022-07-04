@@ -1,7 +1,5 @@
-# Portfolio
+This is a my portfolio.
 
-This is a portfolio of my software dev profile.
+You can find info about me, links (linkedin, github, etc), projects, resume and other cool things ive worked on.
 
-You can find info about me, links (linkedin, github), projects worked on, resume and other cool things i create/d using html and css.
-
-Still under construction
+#StillUnderConstruction
